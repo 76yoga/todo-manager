@@ -1,6 +1,7 @@
  Todo Manager CLI Application
+ 
 Description
-  The Todo Manager CLI Application is a Python-based command-line tool designed to help users manage their daily tasks effectively. It provides a simple and intuitive interface for adding, removing, and tracking tasks, allowing users to stay organized and focused on their priorities.
+ The Todo Manager CLI Application is a Python-based command-line tool designed to help users manage their daily tasks effectively. It provides a simple and intuitive     interface for adding, removing, and tracking tasks, allowing users to stay organized and focused on their priorities.
 
 Features
  Add Task: Add a new task with a title and optional description.
