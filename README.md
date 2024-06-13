@@ -1,20 +1,20 @@
 # todo-manager
-#Todo Manager
+
 A simple command-line todo manager built with Python.
 
-#Description
-This project is a command-line todo manager that allows users to manage their tasks efficiently. It provides functionalities to add, delete, update, and list tasks from the command line.
+Description
+  This project is a command-line todo manager that allows users to manage their   tasks efficiently. It provides functionalities to add, delete, update, and list tasks from the command line.
 
-#Features
-Add new tasks with descriptions and due dates.
-Remove tasks by task ID.
-Update task details such as description or due date.
-List all tasks.
-Mark tasks as completed.
+Features
+ Add new tasks with descriptions and due dates.
+ Remove tasks by task ID.
+ Update task details such as description or due date.
+ List all tasks.
+ Mark tasks as completed.
 Installation
-Clone this repository to your local machine.
-Navigate to the project directory.
-Install dependencies using Pipenv:
+ Clone this repository to your local machine.
+ Navigate to the project directory.
+ Install dependencies using Pipenv:
 bash
 Copy code
 pipenv install
