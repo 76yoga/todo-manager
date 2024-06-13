@@ -54,4 +54,4 @@ Dependencies
 
  other_dependency: (if any)
 Project Structure
- todo_manager/
+ todo_manager/.
